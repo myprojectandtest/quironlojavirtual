@@ -14,7 +14,6 @@ namespace Quiron.LojaVirtual.Web
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
-            // teste teste
         }
     }
 }
