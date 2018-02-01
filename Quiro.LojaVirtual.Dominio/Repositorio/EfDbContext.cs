@@ -1,4 +1,4 @@
-﻿using Quiro.LojaVirtual.Dominio.Entidades;
+﻿using Quiron.LojaVirtual.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Quiro.LojaVirtual.Dominio.Repositorio
+namespace Quiron.LojaVirtual.Dominio.Repositorio
 {
     public class EfDbContext :  DbContext
     {

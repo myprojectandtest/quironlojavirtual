@@ -1,11 +1,7 @@
-﻿using Quiro.LojaVirtual.Dominio.Entidades;
-using System;
+﻿using Quiron.LojaVirtual.Dominio.Entidades;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Quiro.LojaVirtual.Dominio.Repositorio
+namespace Quiron.LojaVirtual.Dominio.Repositorio
 {
     public class ProdutosRepositorio
     {

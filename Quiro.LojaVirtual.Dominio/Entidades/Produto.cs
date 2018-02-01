@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Quiro.LojaVirtual.Dominio.Entidades
+namespace Quiron.LojaVirtual.Dominio.Entidades
 {
     public class Produto
     {
